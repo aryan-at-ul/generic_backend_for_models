@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Building packages and uploading them to a Gemfury repository
+# Building packages and uploading them to this repository
 
 GEMFURY_URL=$GEMFURY_PUSH_URL
 
